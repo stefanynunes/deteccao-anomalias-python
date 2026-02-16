@@ -1,8 +1,9 @@
 # 🔍 Detecção de Anomalias em Logs com Python
 
-Projeto em Python desenvolvido para análise de logs de segurança e identificação de padrões suspeitos, como tentativas de **brute force** ou acessos incomuns.
+Projeto em Python desenvolvido para análise de logs de segurança e identificação de padrões suspeitos, como tentativas de brute force ou acessos incomuns.
 
-Este projeto faz parte do meu portfólio prático de aprendizado em programação e segurança de dados.
+Este projeto foi desenvolvido como parte do meu processo de aprendizado em Python e segurança de dados, aplicando conceitos estudados na prática.
+
 
 ---
 
@@ -53,13 +54,6 @@ python portfolio.py
 * Análise estatística mais avançada
 * Machine Learning para detecção automática
 * Integração com logs reais
-
----
-
-Obs.:
-
-Este projeto foi desenvolvido como parte do meu aprendizado em Python e segurança de dados, aplicando conceitos estudados na prática.
-
 
 ---
 
