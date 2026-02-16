@@ -35,7 +35,7 @@ else:
 
 
 # =========================================================
-# 3. Análise Geográfica (valoriza seu portfólio)
+# 3. Análise Geográfica
 # =========================================================
 
 paises_suspeitos = df[df['status'] == "Failed"]['country'].value_counts()
@@ -45,9 +45,10 @@ print(paises_suspeitos)
 
 
 # =========================================================
-# 4. Exportando para CSV (Power BI / visualização)
+# 4. Exportando para CSV 
 # =========================================================
 
 df.to_csv('logs_seguranca.csv', index=False)
 
 print("\nArquivo logs_seguranca.csv exportado com sucesso.")
+
