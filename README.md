@@ -56,6 +56,13 @@ python portfolio.py
 
 ---
 
+Obs.:
+
+Este projeto foi desenvolvido como parte do meu aprendizado em Python e segurança de dados, aplicando conceitos estudados na prática.
+
+
+---
+
 ## 👩‍💻 Autora
 
 Stefany  Nunes — Projeto desenvolvido para fins educacionais e construção de portfólio.
