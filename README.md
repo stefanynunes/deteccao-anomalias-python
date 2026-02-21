@@ -26,28 +26,6 @@ Simular a análise de logs para identificar comportamentos potencialmente malici
 
 ---
 
-## ▶️ Como executar
-
-Clone o repositório:
-
-```bash
-git clone LINK_AQUI
-```
-
-Entre na pasta:
-
-```bash
-cd deteccao-anomalias-python
-```
-
-Execute o script:
-
-```bash
-python portfolio.py
-```
-
----
-
 ## 📊 Possíveis melhorias futuras
 
 * Interface visual
