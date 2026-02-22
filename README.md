@@ -23,6 +23,22 @@ Simular a análise de logs para identificar comportamentos potencialmente malici
 * Python 3
 * Manipulação de arquivos
 * Estruturas condicionais e loops
+* Power BI
+
+---
+## 📊 Dashboard – Análise de Anomalias por Países
+
+### 🔎 Preview do Dashboard
+
+![Dashboard Preview](images/dashboard-preview.png)
+
+---
+
+### 📥 Download do Arquivo Power BI
+
+Você pode baixar o arquivo completo aqui:
+
+[📂 Baixar Dashboard (.pbix)](powerbi/dashboard_anomalias_por_países.pbix)
 
 ---
 
